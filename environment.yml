@@ -1,0 +1,7 @@
+name: artificial-intelligence
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+prefix: C:\Users\HARVEY\anaconda3\envs\artificial-intelligence
